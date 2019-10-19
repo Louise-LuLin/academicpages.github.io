@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Lu Lin"
-  avatar           : "profile.png"
+  avatar           : "/images/profile.jpeg"
   bio              : "PhD Student in Computer Science at University of Virginia"
   location         : "Charlottesville, VA"
   employer         :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/Louise-LuLin"
   google_plus      :
   keybase          :
   instagram        :
