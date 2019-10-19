@@ -23,4 +23,4 @@ IEEE Transactions on Knowledge & Data Engineering (**TKDE 2018**).
 
 - [Opinion Mining and Sentiment Analysis in Social Networks: A Retweeting Structure-Aware Approach](https://dl.acm.org/citation.cfm?id=2760094) <br>
 **Lu Lin**, Jianxin Li, Richong Zhang, Weiren Yu, Chenggen Sun. <br>
-International Conference on Utility and Cloud Computing (**UCC 2014*). 
+International Conference on Utility and Cloud Computing (**UCC 2014**). 
