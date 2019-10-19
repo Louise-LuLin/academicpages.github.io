@@ -80,7 +80,9 @@ analytics:
 author:
   name             : "Lu Lin (林璐)"
   avatar           : "http://louise-lulin.github.io/images/profile.png"
-  bio              : "PhD Student > Computer Science > University of Virginia"
+  bio              : "PhD Student"
+  major            : "Computer Science"
+  university       : "University of Virginia"
   location         : "Charlottesville, VA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=8N04pBgAAAAJ&hl=en"
@@ -97,7 +99,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "www.linkedin.com/in/lulin92"
+  linkedin         : "https://www.linkedin.com/in/lulin92/"
   orcid            : 
   pinterest        :
   soundcloud       :
