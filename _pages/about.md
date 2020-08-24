@@ -12,8 +12,9 @@ I am a Ph.D. student in the Department of Computer Science at University of Virg
 
 News
 --------
-- [10/2019] Our paper [JNET: Learning User Representations via Joint Network Embedding and Topic Embedding]() has been accepted by WSDM 2020 (to appear).
-- [09/2019] Our paper [Sequential Learning with Active Partial Labeling for Building Metadata]() has been accepted by BuildSys 2019 (to appear).
+- [06/2020] Our paper [Graph Attention Networks over Edge Content-Based Channels]() has been accepted by KDD 2020.
+- [10/2019] Our paper [JNET: Learning User Representations via Joint Network Embedding and Topic Embedding]() has been accepted by WSDM 2020.
+- [09/2019] Our paper [Sequential Learning with Active Partial Labeling for Building Metadata]() has been accepted by BuildSys 2019.
 
 Contact
 --------

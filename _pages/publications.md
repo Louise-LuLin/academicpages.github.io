@@ -5,13 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 ------
-- [JNET: Learning User Representations via Joint Network Embedding and Topic Embedding]() <br>
-Lin Gong, **Lu Lin**, Hongning Wang. <br>
-International Conference on Web Search and Data Mining (**WSDM 2020**). (to appear)
+- [Graph Attention Networks over Edge Content-Based Channels](https://dl.acm.org/doi/pdf/10.1145/3394486.3403233?casa_token=09EfVCt3i5UAAAAA:WBu_WcmwaniTf5LYErzFH_14sbnyX4M_9_sooP6xky_KwKvDnZ_BeBiOLz9E0SeBimTfugajJNA) <br>
+**Lu Lin**, Hongning Wang. <br>
+International Conference on Knowledge Discovery & Data Mining (**KDD 2020**). 
 
-- [Sequential Learning with Active Partial Labeling for Building Metadata]() <br>
+- [JNET: Learning User Representations via Joint Network Embedding and Topic Embedding](https://dl.acm.org/doi/pdf/10.1145/3336191.3371770?casa_token=PUedWAotyCAAAAAA:OKcCLLsuvyWl-07Vrk8JA-o3lio3XkDX9fXvAzZDkdWlKCkm0HZgbEhMPs-GSFRBUQPgsCoNQqI) <br>
+Lin Gong, **Lu Lin**, Hongning Wang. <br>
+International Conference on Web Search and Data Mining (**WSDM 2020**). 
+
+- [Sequential Learning with Active Partial Labeling for Building Metadata](https://dl.acm.org/doi/pdf/10.1145/3360322.3360866) <br>
 **Lu Lin**, Zheng Luo, Dezhi Hong, Hongning Wang. <br>
-International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (**BuildSys 2019**). (to appear)
+International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (**BuildSys 2019**). 
 
 - [Learning Personalized Topical Compositions with Item Response Theory](https://dl.acm.org/citation.cfm?id=3291022) <br> 
 **Lu Lin**, Lin Gong, Hongning Wang. <br>
